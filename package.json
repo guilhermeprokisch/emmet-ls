@@ -1,7 +1,7 @@
 {
   "name": "emmet-tc",
   "description": "emmet support by LSP",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "author": "aca",
   "license": "MIT",
   "engines": {
